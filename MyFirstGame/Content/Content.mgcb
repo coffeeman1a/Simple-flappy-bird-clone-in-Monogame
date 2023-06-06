@@ -25,6 +25,13 @@
 /processorParam:TextureFormat=Color
 /build:bird.png
 
+#begin EightBits.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:EightBits.spritefont
+
 #begin pipe_down.png
 /importer:TextureImporter
 /processor:TextureProcessor
